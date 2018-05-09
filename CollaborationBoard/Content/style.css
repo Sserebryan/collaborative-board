@@ -1,0 +1,88 @@
+﻿
+body
+{	
+	padding:15px
+}
+ .leftside {
+    float: left;
+	width:50%
+}
+	.leftside .color-pallette
+	{
+		float:left;
+		width:15%;
+        border:1px solid #000
+
+	}
+        .leftside .color-pallette img
+        {
+            width:30px
+        }
+        .leftside .color-pallette .tools
+        {
+            margin-left:20px;
+        }
+	.leftside canvas
+	{
+		
+			margin-left:20px;
+            border: 1px solid #888;
+            border-radius: 4px;
+            position: relative;
+	}
+	.leftside .color-box
+	{
+		width:20px;
+		height:20px;
+		margin-bottom:10px;
+		border:1px solid #666;
+        margin-left:20px;
+        
+	}
+ .rightside{
+     float:right;
+     width:50%
+ }
+#divMessage
+{
+	height: 150px; width: 50%; padding: 2px; border: 1px solid #000;
+                background-color: #fff; overflow: scroll;margin-bottom:10px
+
+}
+.rightside textarea
+{
+	height: 50px; width: 50%; padding: 5px;
+                background-color: #fff; resize:none;
+				display:block;margin-bottom:10px
+}
+.rightside .invite
+{
+	font-family:Arial, Verdana, sans-serif;
+	font-size:12px;
+	color:#666;
+	width:50%;
+	margin-bottom:10px;
+	border:1px solid #000;
+	padding:15px;
+}
+        .colorbox {
+            float : left;
+            margin-left : 10px;
+        }
+
+      
+        #btnClear, #btnShare {
+            /*float: left;*/
+            font-size: 15px;
+            /*padding: 10px;*/
+            -webkit-appearance: none;
+            background: #eee;
+            /*border: 1px solid #888;*/            
+			margin-top:10px;
+        }
+ .error {
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #ebccd1;
+  padding:1px 20px 1px 20px;
+}

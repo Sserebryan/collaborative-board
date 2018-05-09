@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollaborationBoard", "CollaborationBoard\CollaborationBoard.csproj", "{1A4F49BC-F09D-4BC6-9562-3CC3406B23D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{DC2154D6-D20B-4F77-B53A-65F6DBAAF6F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollaborationBoard.Tests", "CollaborationBoard.Tests\CollaborationBoard.Tests.csproj", "{28B58A0C-E183-45C7-A13E-EA3E2358DA93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A4F49BC-F09D-4BC6-9562-3CC3406B23D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4F49BC-F09D-4BC6-9562-3CC3406B23D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4F49BC-F09D-4BC6-9562-3CC3406B23D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4F49BC-F09D-4BC6-9562-3CC3406B23D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B58A0C-E183-45C7-A13E-EA3E2358DA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B58A0C-E183-45C7-A13E-EA3E2358DA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B58A0C-E183-45C7-A13E-EA3E2358DA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B58A0C-E183-45C7-A13E-EA3E2358DA93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E08AEBD-A960-498A-81C1-2D63F7F2A95E}
+	EndGlobalSection
+EndGlobal
