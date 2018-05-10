@@ -12,6 +12,8 @@ jQuery is a cross-platform JavaScript library designed to simplify the client-si
 
 For tests using XUnit library
 
+Tests is in CollaborationBoard.Tests project(UnitTest1.cs file).
+
 xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages
 
 ### list of methods that have been tested
