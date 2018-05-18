@@ -1,6 +1,6 @@
 # Collaboration board
 
-A web application made with SignalR and ASP.NET.
+A web application made with SignalR and ASP.NET. This is old project from 2014.
 
 ASP.NET is an open-source server-side web application framework designed for web development to produce dynamic web pages. It was developed by Microsoft to allow programmers to build dynamic web sites, web applications and web services.
 
